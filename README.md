@@ -24,7 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on HackerRank and play the piano.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-yellow?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olivelliott)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olivelliott-yellow?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olivelliott)
 
 ---
 
