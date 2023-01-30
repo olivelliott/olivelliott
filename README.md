@@ -38,21 +38,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg' title="BootStrap" **alt="Bootstrap" width="40" height="40"/>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' title="Express" **alt="Express" width="40" height="40"/>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg' title="Github" **alt="Github" width="40" height="40"/>
-    <img src=' https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg' title="GraphQL" **alt="GraphQL" width="40" height="40"/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg' title="GraphQL" **alt="GraphQL" width="40" height="40"/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg' title="jQuery" **alt="jQuery" width="40" height="40"/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' title="MongoDB" **alt="MongoDB" width="40" height="40"/>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg' title="NextJS" **alt="NextJS" width="40" height="40"/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' title="npm" **alt="npm" width="40" height="40"/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg' title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
-   
 </div>
 
 
 ---
 
-### :fire: My Stats :
+### :star2: My Stats :
 
 <div>
 
