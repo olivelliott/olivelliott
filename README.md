@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align='center'>
-  <a href='https://www.linkedin/in/olivelliott'>
+  <a href='https://www.linkedin.com/in/olivelliott'>
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href='https://twitter.com/oliv_e_lliott'>
