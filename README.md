@@ -4,10 +4,10 @@
 </div>
 
 <div id="badges" align='center'>
-  <a href='https://www.linkedin/in/olivelliott'>
+  <a href='[https://www.linkedin/in/olivelliott](https://www.linkedin.com/in/olivelliott/)'>
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href='https://twitter.com/oliv_e_lliott'>
+  <a href='[https://twitter.com/oliv_e_lliott](https://twitter.com/oliv_e_lliott)'>
     <img src="https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
