@@ -18,11 +18,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> trained at the UNC Chapel Hill Coding Bootcamp.
 
-- :telescope: I’m seeking an internship or employment opportunity in a collaborative and fast paced environment.
+- :seedling: I'm currently exploring Prisma, Postgresql, and other back end technologies.
 
-- :seedling: Currently exploring ReactJS and NextJS.
-
-- :zap: In my free time, I solve problems on HackerRank and play the piano.
+- :zap: In my free time, I garden, listen to live music, and play the piano.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olivelliott-yellow?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olivelliott)
 
