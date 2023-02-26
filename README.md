@@ -18,7 +18,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> trained at the UNC Chapel Hill Coding Bootcamp.
 
-- :seedling: I'm currently exploring Prisma, PostgreSQL, and other back end technologies.
+- :seedling: I'm currently developing immersive experiences in virtual reality with ThreeJS and React-Three frameworks.
 
 - :zap: In my free time, I garden, listen to live music, and play the piano.
 
