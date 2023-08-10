@@ -7,9 +7,6 @@
   <a href='https://www.linkedin.com/in/olivelliott'>
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href='https://twitter.com/oliv_e_lliott'>
-    <img src="https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 ---
@@ -18,7 +15,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> trained at the UNC Chapel Hill Coding Bootcamp.
 
-- :seedling: I'm currently developing immersive experiences in virtual reality with ThreeJS and React-Three frameworks.
+- :seedling: I'm currently developing immersive experiences in virtual reality with ThreeJS and React-three-fiber.
 
 - :zap: In my free time, I garden, listen to live music, and play the piano.
 
