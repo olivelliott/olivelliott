@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me :
 
-I'm a Full Stack Developer and Spatial Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm a Full Stack Developer and Spatial Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :seedling: I'm currently developing responsive spatial software for the web with ThreeJS and React-Three/Fiber.
 
