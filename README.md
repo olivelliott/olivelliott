@@ -13,13 +13,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> trained at the UNC Chapel Hill Coding Bootcamp.
+I'm a Full Stack Developer and Spatial Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :seedling: I'm currently developing immersive experiences in virtual reality with ThreeJS and React-three-fiber.
+- :seedling: I'm currently developing responsive spatial software for the web with ThreeJS and React-Three/Fiber.
 
 - :zap: In my free time, I garden, listen to live music, and play the piano.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olivelliott-yellow?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olivelliott)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olivelliott-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olivelliott)
 
 ---
 
@@ -38,6 +38,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' title="MongoDB" **alt="MongoDB" width="40" height="40"/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' title="npm" **alt="npm" width="40" height="40"/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg' title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg' title="ThreeJS" **alt="ThreeJS" width="40" height="40"/>
+  
 </div>
 
 
