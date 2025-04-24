@@ -13,9 +13,10 @@
 
 ### :woman_technologist: About Me :
 
-I'm a Full Stack Developer and Spatial Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Project Lead for Aktïga.
 
-- :seedling: I'm currently developing responsive spatial software for the web with ThreeJS and React-Three/Fiber.
+
+- :seedling: I'm currently managing and developing [![Agenda Keeper Badge](https://img.shields.io/badge/-agendakeeper-pink?style=flat&logo=Linkedin&logoColor=white)]((https://app.agendakeeper.com/)) using NextJS and supabase.
 
 - :zap: In my free time, I garden, listen to live music, and play the piano.
 
