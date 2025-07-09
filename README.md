@@ -18,7 +18,7 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: I'm currently managing and developing [![Agenda Keeper Badge](https://img.shields.io/badge/-agendakeeper-pink?style=flat&logo=Linkedin&logoColor=white)]((https://app.agendakeeper.com/)) using NextJS and supabase.
 
-- :zap: In my free time, I garden, listen to live music, and play the piano.
+- :zap: In my free time, I garden, listen to live music, and read all kinds of books 📖.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-olivelliott-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olivelliott)
 
