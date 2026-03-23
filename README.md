@@ -71,6 +71,4 @@ I build self-enhancing AI applications and autonomous workflows that empower peo
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olivelliott&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivelliott&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
