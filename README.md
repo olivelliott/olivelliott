@@ -26,7 +26,7 @@ I build self-enhancing AI applications and autonomous workflows that empower peo
 
 ### :crystal_ball: What I'm Into Right Now
 
-- Building **autonomous AI agents** that self-learn and self-improve — not chatbots, systems that *do things*
+- Building **autonomous AI agents** that self-learn and self-improve
 - **Local-first AI** — Ollama embeddings, vector stores, keeping data on-device
 - **MCP servers** and composable AI tooling
 - **Intent engineering** — designing prompts and workflows that translate human goals into reliable agent behavior
