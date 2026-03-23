@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
-  <h1>Hey, I'm Olivia</h1>
+  <h1>Hi, I'm Olivia</h1>
   <p><em>Full Stack Developer / AI Workflow Builder / Intent Engineer</em></p>
 </div>
 
@@ -62,13 +62,3 @@ I build self-enhancing AI applications and autonomous workflows that empower peo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
----
-
-### :star2: My Stats
-
-<div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olivelliott&theme=dracula)](https://git.io/streak-stats)
-
-</div>
